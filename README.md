@@ -55,8 +55,9 @@ I am fascinated by the intersection of **engineering, technology, and society**.
 ## 🔝 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKhanna0001&layout=compact&theme=radical)](https://github.com/SparshKhanna0001)
 
+<!--
 [][](https://visitcount.itsvg.in/api?id=SparshKhanna0001&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 
 <br/>
 
