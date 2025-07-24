@@ -20,7 +20,7 @@
 ## 📫 Let’s Connect
 <center>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ksparsh0x00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sparsh-khanna-127660248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khannasparsh0001@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ksparsh0x00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-khanna-127660248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khannasparsh0001@gmail.com) 
 
 </center>
 
@@ -51,11 +51,11 @@ I am fascinated by the intersection of **engineering, technology, and society**.
 ![](https://github-readme-stats.vercel.app/api?username=SparshKhanna0001&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SparshKhanna0001&theme=neon&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=SparshKhanna0001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🔝 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKhanna0001&layout=compact&theme=radical)](https://github.com/SparshKhanna0001)
 
+[][](https://visitcount.itsvg.in/api?id=SparshKhanna0001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <br/>
@@ -105,9 +105,9 @@ I am fascinated by the intersection of **engineering, technology, and society**.
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" height="30" />
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" height="30" />
+  <img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
+  <img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" height="30" />
+  <img src="images/noframes.gif" alt="No Frames" height="30" />
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img alt="Globe" height="80" src="/images/globe.gif" style="margin:10px;">
 </div>
